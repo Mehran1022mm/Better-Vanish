@@ -1,0 +1,7 @@
+Prefix: "&a&lVANISH &7»"
+Auto-Vanish: true
+Message:
+  No-Permission: "&cTouch Some Grass."
+  Vanish-Enable: "&2You Became A Ghost."
+  Vanish-Disable: "&cYou Ain't Ghost No More."
+  Cant-Chat: ""

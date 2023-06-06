@@ -1,0 +1,4 @@
+name: Better-Vanish
+version: '${project.version}'
+main: net.moamele.Vanish.Main
+api-version: 1.19
