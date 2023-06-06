@@ -23,9 +23,6 @@ public final class Main extends JavaPlugin {
         instance = this;
         saveDefaultConfig();
         Config.loadConfig();
-        LoadThings();
-    }
-    private void LoadThings () {
         getServer().getPluginManager().registerEvents(new PlayerJoinListener(), this);
         getServer().getPluginManager().registerEvents(new AsyncPlayerChatListener(), this);
         getServer().getPluginManager().registerEvents(new PlayerQuitListener(), this);
