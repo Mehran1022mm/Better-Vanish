@@ -2,3 +2,5 @@ name: Better-Vanish
 version: '${project.version}'
 main: net.moamele.Vanish.Main
 api-version: 1.19
+authors: [ Mehran1022 ]
+description: "A Vanish Plugin That Made For Moamele.net"
